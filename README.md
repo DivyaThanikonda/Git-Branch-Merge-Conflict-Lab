@@ -2,5 +2,9 @@
 # Git-Branch-MergeConflict-Lab
 This repository demonstrates Git branching and merge conflict resolution.
 ## Feature Branch
+
+Author: DIVYA T
+Branch: feature-update
+
 Author: Git Collaboration Team
 Branch: feature-update
